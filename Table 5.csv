@@ -1,0 +1,7 @@
+Season,Envelope Quality,<900,900-1500,1500-2100,>2100,Per Fireplace
+Winter,Best,0.4,0.4,0.3,0.3,0.1
+Winter,Average,1.2,1.0,0.8,0.7,0.2
+Winter,Poor,2.2,1.6,1.2,1.0,0.6
+Summer,Best,0.2,0.2,0.2,0.2,
+Summer,Average,0.5,0.5,0.4,0.4,
+Summer,Poor,0.8,0.7,0.6,0.5,
