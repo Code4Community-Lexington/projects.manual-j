@@ -1,0 +1,781 @@
+External Shade Option,Glass Option,Internal Shade Option,Pane Option,Direction,10,15,20,25,30,35
+No External Shade Screen,Clear Glass,No Internal Shading,Single Pane,N,23,27,31,35,39,43
+No External Shade Screen,Clear Glass,No Internal Shading,Single Pane,NE/NW,58,60,64,68,72,76
+No External Shade Screen,Clear Glass,No Internal Shading,Single Pane,E/W,81,85,89,93,97,101
+No External Shade Screen,Clear Glass,No Internal Shading,Single Pane,SE/SW,70,74,78,82,86,90
+No External Shade Screen,Clear Glass,No Internal Shading,Single Pane,S,40,44,48,52,56,60
+No External Shade Screen,Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,19,21,23,25,27,29
+No External Shade Screen,Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,47,49,51,53,55,57
+No External Shade Screen,Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,88,70,72,74,76,78
+No External Shade Screen,Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,59,61,63,65,87,89
+No External Shade Screen,Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,34,36,38,40,42,44
+No External Shade Screen,Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,17,18,19,20,21,22
+No External Shade Screen,Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,43,44,45,46,47,48
+No External Shade Screen,Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,62,63,64,65,66,67
+No External Shade Screen,Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,53,54,55,56,57,58
+No External Shade Screen,Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,30,31,32,33,34,35
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Single Pane,N,14,18,22,26,30,34
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,33,37,41,45,49,53
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Single Pane,E/W,48,52,56,60,64,68
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,41,45,49,53,57,61
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Single Pane,S,24,28,32,36,40,44
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,29,31,33,35,37,39
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,42,44,46,48,50,52
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,37,39,41,43,45,47
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,21,23,25,27,29,31
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,10,11,12,13,14,15
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,25,28,27,28,29,30
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,37,38,39,40,41,42
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,32,33,34,35,36,37
+No External Shade Screen,Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,18,19,20,21,22,23
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Single Pane,N,17,21,25,29,33,37
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Single Pane,NE/NW,41,45,49,53,57,61
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Single Pane,E/W,60,64,68,72,76,80
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Single Pane,SE/SW,62,56,60,54,68,72
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Single Pane,S,30,34,38,42,46,50
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,16,18,20,22,24,26
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,38,40,42,44,46,48
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,55,57,59,61,83,85
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,47,49,51,53,55,57
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,27,29,31,33,35,37
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,14,15,16,17,18,19
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,34,35,36,37,38,39
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,49,50,51,52,53,54
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,42,43,44,45,46,47
+No External Shade Screen,Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,24,25,26,27,28,29
+No External Shade Screen,Clear Glass,Awning Porches or Other External Shading,Single Pane,Any,23,27,31,35,39,43
+No External Shade Screen,Clear Glass,Awning Porches or Other External Shading,Double Pane OR Single Pane & Low e Coating,Any,19,21,23,25,27,29
+No External Shade Screen,Clear Glass,Awning Porches or Other External Shading,Triple Pane OR Double Pane & Low e Coating,Any,17,18,19,20,21,22
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,N,16,20,24,28,32,36
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,NE/NW,39,43,47,51,55,59
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,E/W,57,61,65,69,73,77
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,SE/SW,49,53,57,61,65,69
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,S,28,32,36,40,44,48
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,29,31,33,35,37,39
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,42,44,46,48,50,52
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,36,38,40,42,44,46
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,21,23,25,27,29,31
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,9,10,11,12,13,14
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,22,23,24,25,26,27
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,32,33,34,35,36,37
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,28,29,30,31,32,33
+No External Shade Screen,Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,16,17,18,19,20,21
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,N,12,16,20,24,28,32
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,30,34,38,42,46,50
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,E/W,43,47,51,55,59,63
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,37,41,45,49,53,57
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,S,21,25,29,33,37,41
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,22,24,26,28,30,32
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,31,33,35,37,39,41
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,27,29,31,33,35,37
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,15,17,19,21,23,25
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,15,16,17,18,19,20
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,21,22,23,24,25,26
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,18,19,20,21,22,23
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,10,11,12,13,14,15
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,N,14,18,22,26,30,34
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,NE/NW,34,38,42,46,50,54
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,E/W,49,53,57,61,65,69
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,SE/SW,42,46,50,54,58,62
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,S,24,28,32,36,40,44
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,10,12,14,16,18,20
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,25,27,29,31,33,35
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,36,38,40,42,44,46
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,31,33,35,37,39,41
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,18,20,22,24,26,28
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,7,8,9,10,11,12
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,18,19,20,21,22,23
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,26,27,28,29,30,31
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,22,23,24,25,26,27
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,13,14,15,16,17,18
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Awning Porches or Other External Shading,Single Pane,Any,16,20,24,28,32,34
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Awning Porches or Other External Shading,Double Pane OR Single Pane & Low e Coating,Any,12,14,16,18,20,22
+No External Shade Screen,Tinted (Heat Absorbing) Glass,Awning Porches or Other External Shading,Triple Pane OR Double Pane & Low e Coating,Any,9,10,11,12,13,14
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Single Pane,N,14,18,22,26,30,34
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Single Pane,NE/NW,34,38,42,46,50,54
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Single Pane,E/W,49,53,57,61,65,69
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Single Pane,SE/SW,43,47,51,55,59,63
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Single Pane,S,24,28,32,36,40,44
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,10,12,14,16,18,20
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,24,26,28,30,32,34
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,34,36,38,40,42,44
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,29,31,33,35,37,39
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,17,19,21,23,25,27
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,15,16,17,18,19,20
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,21,22,23,24,25,26
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,18,19,20,21,22,23
+No External Shade Screen,Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,10,11,12,13,14,15
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,N,11,15,19,23,27,31
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,28,32,36,40,44,48
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,E/W,40,44,48,52,56,60
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,35,39,43,47,51,55
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,S,20,24,28,32,36,40
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,8,10,12,14,16,18
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,20,22,24,26,28,30
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,30,32,34,36,38,40
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,26,28,30,32,34,36
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,15,17,19,21,23,25
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,12,13,14,15,16,17
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,17,18,19,20,21,22
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,15,16,17,18,19,20
+No External Shade Screen,Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,9,10,11,12,13,14
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,N,12,16,20,24,28,32
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,NE/NW,30,34,38,42,46,50
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,E/W,44,48,52,56,60,64
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,SE/SW,38,42,46,50,54,58
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,S,22,26,30,34,38,42
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,21,23,25,27,29,31
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,31,33,35,37,39,41
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,27,29,31,33,35,37
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,15,17,19,21,23,25
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,13,14,15,16,17,18
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,18,19,20,21,22,23
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,16,17,18,19,20,21
+No External Shade Screen,Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,9,10,11,12,13,14
+No External Shade Screen,Reflective Coated Glass,Awning Porches or Other External Shading,Single Pane,Any,14,18,22,26,30,34
+No External Shade Screen,Reflective Coated Glass,Awning Porches or Other External Shading,Double Pane OR Single Pane & Low e Coating,Any,10,12,14,16,18,20
+No External Shade Screen,Reflective Coated Glass,Awning Porches or Other External Shading,Triple Pane OR Double Pane & Low e Coating,Any,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Single Pane,N,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Single Pane,NE/NW,28,32,36,40,44,48
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Single Pane,E/W,32,36,40,44,48,52
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Single Pane,SE/SW,30,34,38,42,46,50
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Single Pane,S,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,23,25,27,29,31,33
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,26,28,30,32,34,36
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,25,27,29,31,33,35
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,21,23,25,27,29,31
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,17,18,19,20,21,22
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,21,22,23,24,25,26
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,24,25,26,27,28,29
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,22,23,24,25,26,27
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,19,20,21,22,23,24
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Single Pane,E/W,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Single Pane,S,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,13,15,17,19,21,23
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,12,13,14,15,16,17
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,13,14,15,16,17,18
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Single Pane,N,17,17,17,17,17,17
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Single Pane,NE/NW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Single Pane,E/W,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Single Pane,SE/SW,22,26,30,34,38,42
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Single Pane,S,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,22,24,26,28,30,32
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,21,23,25,27,29,31
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,18,20,22,24,26,28
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,17,18,19,20,21,22
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,19,20,21,22,23,24
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,18,19,20,21,22,23
+"External Shade Screen, Shading Coefficient 0.15",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,16,17,18,19,20,21
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,N,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,NE/NW,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,E/W,22,26,30,34,38,42
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,SE/SW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,S,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,13,15,17,19,21,23
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,12,13,14,15,16,17
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,12,13,14,15,16,17
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,N,12,16,20,24,28,32
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,15,19,23,27,31,35
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,E/W,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,S,13,17,21,25,29,33
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,10,12,14,16,18,20
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,NE/NW,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,E/W,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,SE/SW,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,S,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,10,12,14,6,18,20
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,13,15,17,19,21,23
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.15",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Single Pane,NE/NW,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Single Pane,E/W,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Single Pane,SE/SW,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Single Pane,S,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,10,12,14,16,18,20
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,13,15,17,19,21,23
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,N,11,15,19,23,27,31
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,E/W,15,19,23,27,31,35
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,15,19,23,27,31,35
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,S,12,16,20,24,28,32
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,8,10,12,14,16,18
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,10,12,14,16,18,20
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,9,11,13,15,17,19
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,N,12,16,20,24,28,32
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,NE/NW,15,19,23,27,31,35
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,E/W,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,SE/SW,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,S,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,10,12,14,16,18,20
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.15",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Single Pane,N,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Single Pane,NE/NW,31,35,39,43,47,51
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Single Pane,E/W,38,42,46,50,54,58
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Single Pane,SE/SW,35,39,43,47,51,55
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Single Pane,S,27,31,35,39,43,47
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,26,28,30,32,34,36
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,31,33,35,37,39,41
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,29,31,33,35,37,39
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,23,25,27,29,31,33
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,17,18,19,20,21,22
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,24,25,26,27,28,29
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,28,29,30,31,32,33
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,26,27,28,29,30,31
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,20,21,22,23,24,25
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Single Pane,E/W,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Single Pane,S,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,20,22,24,26,28,30
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,18,20,22,24,26,28
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,17,18,19,20,21,22
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,16,17,18,19,20,21
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,12,13,14,15,16,17
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Single Pane,N,17,17,17,17,17,17
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Single Pane,NE/NW,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Single Pane,E/W,28,32,36,40,44,48
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Single Pane,SE/SW,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Single Pane,S,20,24,28,32,36,40
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,22,24,26,28,30,32
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,26,28,30,32,34,36
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,24,26,28,30,32,34
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,19,20,21,22,23,24
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,23,24,25,26,27,28
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,21,22,23,24,25,26
+"External Shade Screen, Shading Coefficient 0.25",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,17,18,19,20,21,22
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,N,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,NE/NW,22,26,30,34,38,42
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,E/W,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,SE/SW,24,28,32,36,40,44
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,S,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,20,22,24,26,28,30
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,18,20,22,24,26,28
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,12,13,14,15,16,17
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,15,16,17,18,19,20
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,N,12,16,20,24,26,32
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,E/W,20,24,28,32,36,40
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,S,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,NE/NW,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,E/W,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,SE/SW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,S,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,10,12,14,6,18,20
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,12,13,14,15,16,17
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.25",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Single Pane,NE/NW,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Single Pane,E/W,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Single Pane,SE/SW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Single Pane,S,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,10,12,14,16,18,20
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,N,11,15,19,23,27,31
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,15,19,23,27,31,35
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,E/W,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,S,13,17,21,25,29,33
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,8,10,12,14,16,18
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,13,15,17,19,21,23
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,10,12,14,16,18,20
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,N,12,16,20,24,28,32
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,NE/NW,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,E/W,20,24,28,32,36,40
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,SE/SW,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,S,15,19,23,27,31,35
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.25",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Single Pane,N,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Single Pane,NE/NW,35,39,43,47,51,55
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Single Pane,E/W,43,47,51,55,59,63
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Single Pane,SE/SW,39,43,47,51,55,59
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Single Pane,S,29,33,37,41,45,49
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,29,31,33,35,37,39
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,36,38,40,42,44,46
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,33,35,37,39,41,43
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,24,26,28,30,32,34
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,17,18,19,20,21,22
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,26,27,28,29,30,31
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,33,34,35,36,37,38
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,30,31,32,33,34,35
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,22,23,24,25,26,27
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Single Pane,E/W,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Single Pane,S,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,18,20,22,24,26,28
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,23,25,27,29,31,33
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,21,23,25,27,29,31
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,15,16,17,18,19,20
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,19,20,21,22,23,24
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,18,19,20,21,22,23
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,13,14,15,16,17,18
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Single Pane,N,17,17,17,17,17,17
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Single Pane,NE/NW,25,29,33,37,41,45
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Single Pane,E/W,32,36,40,44,48,52
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Single Pane,SE/SW,29,33,37,41,45,49
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Single Pane,S,22,26,30,34,38,42
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,24,26,28,30,32,34
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,30,32,34,36,38,40
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,27,29,31,33,35,37
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,20,22,24,26,28,30
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,21,22,23,24,25,26
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,26,27,28,29,30,31
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,24,25,26,27,28,29
+"External Shade Screen, Shading Coefficient 0.35",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,18,19,20,21,22,23
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,N,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,NE/NW,24,28,32,36,40,44
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,E/W,30,34,38,42,46,50
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,SE/SW,28,32,36,40,44,48
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,S,20,24,28,32,36,40
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,18,20,22,24,26,28
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,23,25,27,29,31,33
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,20,22,24,26,28,30
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,17,18,19,20,21,22
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,16,17,18,19,20,21
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,N,12,16,20,24,28,32
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,E/W,23,37,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,S,15,19,23,27,31,35
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,NE/NW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,E/W,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,SE/SW,24,28,32,36,40,44
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,S,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,10,12,14,6,18,20
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,13,15,17,19,21,23
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,12,13,14,15,16,17
+"External Shade Screen, Shading Coefficient 0.35",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Single Pane,NE/NW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Single Pane,E/W,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Single Pane,SE/SW,24,28,32,38,40,44
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Single Pane,S,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,10,12,14,16,18,20
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,18,20,22,24,26,28
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,N,11,15,19,23,27,31
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,E/W,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,S,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,8,10,12,14,16,18
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,10,12,14,16,18,20
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,N,12,16,20,24,28,32
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,NE/NW,18,22,26,30,34,38
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,E/W,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,SE/SW,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,S,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,13,15,17,19,21,23
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.35",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Single Pane,N,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Single Pane,NE/NW,38,42,46,50,54,58
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Single Pane,E/W,49,53,57,61,65,69
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Single Pane,SE/SW,44,48,52,56,60,64
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Single Pane,S,31,35,39,43,47,51
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,32,34,36,38,40,42
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,41,43,45,47,49,51
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,37,39,41,43,45,47
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,26,28,30,32,34,36
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,17,18,19,20,21,22
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,29,30,31,32,33,34
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,37,38,39,40,41,42
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,33,34,35,36,37,38
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,23,24,25,26,27,28
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Single Pane,E/W,29,33,37,41,45,49
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Single Pane,S,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,20,22,24,26,28,30
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,26,28,30,32,34,36
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,23,25,27,29,31,33
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,17,18,19,20,21,22
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,22,23,24,25,26,27
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,20,21,22,23,24,25
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Single Pane,N,17,17,17,17,17,17
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Single Pane,NE/NW,28,32,36,40,44,48
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Single Pane,E/W,36,40,44,48,52,56
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Single Pane,SE/SW,33,37,41,45,49,53
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Single Pane,S,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,26,28,30,32,34,36
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,34,36,38,40,42,44
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,30,32,34,36,38,40
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,21,23,25,27,29,31
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,23,24,25,26,27,28
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,30,31,32,33,34,35
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,27,28,29,30,31,32
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Clear Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,19,20,21,22,23,24
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,N,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,NE/NW,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,E/W,34,38,42,46,50,54
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,SE/SW,31,35,39,43,47,51
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Single Pane,S,21,25,29,33,37,41
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,20,22,24,26,28,30
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,26,28,30,32,34,36
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,23,35,27,29,31,33
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,15,16,17,18,19,20
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,19,20,21,22,23,24
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,18,19,20,21,22,23
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,12,13,14,15,16,17
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,N,12,16,20,24,28,32
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,20,24,28,32,36,40
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,E/W,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Single Pane,S,16,20,24,28,32,36
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,15,17,19,21,23,25
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,13,14,15,16,17,18
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,NE/NW,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,E/W,30,34,38,42,46,50
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,SE/SW,27,31,35,39,43,47
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Single Pane,S,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,10,12,14,6,18,20
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,22,24,26,28,30,32
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,12,13,14,15,16,17
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,16,17,18,19,20,21
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,14,15,16,17,18,19
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Tinted (Heat Absorbing) Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Single Pane,N,14,18,22,26,30,34
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Single Pane,NE/NW,23,27,31,35,39,43
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Single Pane,E/W,30,34,38,42,46,50
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Single Pane,SE/SW,27,31,35,39,43,47
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Single Pane,S,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,N,10,12,14,16,18,20
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,NE/NW,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,E/W,21,23,25,27,29,31
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,SE/SW,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Double Pane OR Single Pane & Low e Coating,S,13,15,17,19,21,23
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,N,6,7,8,9,10,11
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,NE/NW,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,E/W,13,14,15,16,17,18
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,SE/SW,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,No Internal Shading,Triple Pane OR Double Pane & Low e Coating,S,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,N,11,15,19,23,27,31
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,NE/NW,19,23,27,31,35,39
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,E/W,24,28,32,36,40,44
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,SE/SW,22,26,30,34,38,42
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Single Pane,S,15,19,23,27,31,35
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,N,8,10,12,14,16,18
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,NE/NW,13,15,17,19,21,23
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,E/W,18,20,22,24,26,28
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,SE/SW,16,18,20,22,24,26
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Double Pane OR Single Pane & Low e Coating,S,11,13,15,17,19,21
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,NE/NW,8,9,10,11,12,13
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,E/W,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,SE/SW,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Draperies OR Venetian Blinds,Triple Pane OR Double Pane & Low e Coating,S,7,8,9,10,11,12
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,N,12,16,20,24,28,32
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,NE/NW,20,24,28,32,36,40
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,E/W,26,30,34,38,42,46
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,SE/SW,24,28,32,36,40,44
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Single Pane,S,17,21,25,29,33,37
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,N,9,11,13,15,17,19
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,NE/NW,14,16,18,20,22,24
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,E/W,19,21,23,25,27,29
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,SE/SW,17,19,21,23,25,27
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Double Pane OR Single Pane & Low e Coating,S,12,14,16,18,20,22
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,N,5,6,7,8,9,10
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,NE/NW,9,10,11,12,13,14
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,E/W,11,12,13,14,15,16
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,SE/SW,10,11,12,13,14,15
+"External Shade Screen, Shading Coefficient 0.45 OR Adjustable Blinds Between Glazing, (Double Pane Only",Reflective Coated Glass,Roller Shades Half Drawn,Triple Pane OR Double Pane & Low e Coating,S,7,8,9,10,11,12
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Single Pane,N,100,105,111,116,122,127
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Single Pane,NE/NW,128,134,139,145,150,156
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Single Pane,E/W,150,156,161,167,172,177
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Single Pane,SE/SW,141,146,152,157,162,168
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Single Pane,S,115,120,126,131,136,142
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Double Pane,N,86,89,91,94,97,100
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Double Pane,NE/NW,110,113,116,118,121,124
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Double Pane,E/W,128,131,134,137,139,142
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Double Pane,SE/SW,121,123,126,129,132,134
+Skylights,Clear Glass or Plastic,Inclination 60 Degrees,Double Pane,S,99,102,104,107,110,113
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Single Pane,N,129,135,141,146,152,158
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Single Pane,NE/NW,153,158,164,170,175,181
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Single Pane,E/W,170,176,182,187,193,199
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Single Pane,SE/SW,163,168,174,180,185,191
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Single Pane,S,141,147,153,158,164,170
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Double Pane,N,112,115,117,120,123,126
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Double Pane,NE/NW,132,134,137,140,143,146
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Double Pane,E/W,146,149,152,155,158,161
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Double Pane,SE/SW,140,143,146,148,151,154
+Skylights,Clear Glass or Plastic,Inclination 45 Degrees,Double Pane,S,122,125,128,131,134,136
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Single Pane,N,150,156,161,166,172,177
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Single Pane,NE/NW,167,172,177,183,188,194
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Single Pane,E/W,179,185,190,195,201,206
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Single Pane,SE/SW,174,179,184,190,195,201
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Single Pane,S,159,164,169,175,180,186
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Double Pane,N,130,133,135,138,141,144
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Double Pane,NE/NW,144,147,149,152,155,158
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Double Pane,E/W,154,157,160,163,165,168
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Double Pane,SE/SW,150,153,155,158,161,164
+Skylights,Clear Glass or Plastic,Inclination 30 Degrees,Double Pane,S,137,140,143,146,148,151
+Skylights,Clear Glass or Plastic,Inclination 0 Degrees,Single Pane,Horizontal,160,164,168,172,176,180
+Skylights,Clear Glass or Plastic,Inclination 0 Degrees,Double Pane,Horizontal,139,141,143,145,147,149
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Single Pane,N,70,75,81,86,92,97
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Single Pane,NE/NW,90,95,101,106,112,117
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Single Pane,E/W,106,111,116,122,127,133
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Single Pane,SE/SW,99,104,109,115,120,126
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Single Pane,S,80,86,91,97,102,108
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Double Pane,N,55,58,60,63,66,69
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Double Pane,NE/NW,70,72,75,78,81,83
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Double Pane,E/W,81,84,86,89,92,95
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Double Pane,SE/SW,76,78,81,84,87,89
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 60 Degrees,Double Pane,S,63,65,68,71,74,76
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Single Pane,N,91,95,102,107,113,119
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Single Pane,NE/NW,107,112,118,124,129,135
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Single Pane,E/W,120,125,131,136,142,148
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Single Pane,SE/SW,114,120,125,131,136,142
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Single Pane,S,99,105,110,116,122,127
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Double Pane,N,71,74,77,80,83,86
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Double Pane,NE/NW,83,86,89,92,95,98
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Double Pane,E/W,93,95,98,101,104,107
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Double Pane,SE/SW,88,91,94,97,100,103
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 45 Degrees,Double Pane,S,78,81,83,86,89,92
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Single Pane,N,105,110,116,121,127,132
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Single Pane,NE/NW,117,122,127,133,138,144
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Single Pane,E/W,126,131,136,142,147,153
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Single Pane,SE/SW,122,127,132,138,143,149
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Single Pane,S,111,116,122,127,133,138
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Double Pane,N,83,86,89,91,94,97
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Double Pane,NE/NW,92,94,97,100,103,105
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Double Pane,E/W,98,101,104,106,109,112
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Double Pane,SE/SW,95,98,101,103,106,109
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 30 Degrees,Double Pane,S,88,90,93,96,99,101
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 0 Degrees,Single Pane,Horizontal,112,116,120,124,128,132
+Skylights,Tinted (Heat Absorbing) Glass OR Opaque Plastic,Inclination 0 Degrees,Double Pane,Horizontal,89,91,93,95,97,99
+Skylights,Reflective Coated,Inclination 60 Degrees,Single Pane,N,52,58,63,69,74,79
+Skylights,Reflective Coated,Inclination 60 Degrees,Single Pane,NE/NW,70,75,80,86,91,97
+Skylights,Reflective Coated,Inclination 60 Degrees,Single Pane,E/W,83,88,93,99,104,110
+Skylights,Reflective Coated,Inclination 60 Degrees,Single Pane,SE/SW,77,83,88,94,99,105
+Skylights,Reflective Coated,Inclination 60 Degrees,Single Pane,S,61,66,72,77,83,88
+Skylights,Reflective Coated,Inclination 60 Degrees,Double Pane,N,41,43,46,49,52,54
+Skylights,Reflective Coated,Inclination 60 Degrees,Double Pane,NE/NW,53,56,58,61,64,66
+Skylights,Reflective Coated,Inclination 60 Degrees,Double Pane,E/W,62,64,67,70,72,75
+Skylights,Reflective Coated,Inclination 60 Degrees,Double Pane,SE/SW,57,60,63,65,68,71
+Skylights,Reflective Coated,Inclination 60 Degrees,Double Pane,S,47,49,52,55,58,60
+Skylights,Reflective Coated,Inclination 45 Degrees,Single Pane,N,65,70,76,81,87,93
+Skylights,Reflective Coated,Inclination 45 Degrees,Single Pane,NE/NW,77,82,88,93,99,105
+Skylights,Reflective Coated,Inclination 45 Degrees,Single Pane,E/W,85,91,96,102,107,113
+Skylights,Reflective Coated,Inclination 45 Degrees,Single Pane,SE/SW,82,87,93,98,104,110
+Skylights,Reflective Coated,Inclination 45 Degrees,Single Pane,S,71,76,82,88,93,99
+Skylights,Reflective Coated,Inclination 45 Degrees,Double Pane,N,51,54,57,59,62,65
+Skylights,Reflective Coated,Inclination 45 Degrees,Double Pane,NE/NW,60,62,65,68,71,74
+Skylights,Reflective Coated,Inclination 45 Degrees,Double Pane,E/W,67,69,72,75,78,81
+Skylights,Reflective Coated,Inclination 45 Degrees,Double Pane,SE/SW,64,66,69,72,75,78
+Skylights,Reflective Coated,Inclination 45 Degrees,Double Pane,S,56,59,62,64,67,70
+Skylights,Reflective Coated,Inclination 30 Degrees,Single Pane,N,76,81,86,92,97,103
+Skylights,Reflective Coated,Inclination 30 Degrees,Single Pane,NE/NW,85,90,95,101,106,112
+Skylights,Reflective Coated,Inclination 30 Degrees,Single Pane,E/W,92,97,102,108,113,119
+Skylights,Reflective Coated,Inclination 30 Degrees,Single Pane,SE/SW,89,94,99,105,110,116
+Skylights,Reflective Coated,Inclination 30 Degrees,Single Pane,S,81,86,91,97,102,108
+Skylights,Reflective Coated,Inclination 30 Degrees,Double Pane,N,60,63,65,68,71,74
+Skylights,Reflective Coated,Inclination 30 Degrees,Double Pane,NE/NW,66,69,71,74,77,80
+Skylights,Reflective Coated,Inclination 30 Degrees,Double Pane,E/W,71,74,76,79,82,85
+Skylights,Reflective Coated,Inclination 30 Degrees,Double Pane,SE/SW,69,72,74,77,80,83
+Skylights,Reflective Coated,Inclination 30 Degrees,Double Pane,S,63,66,68,71,74,77
+Skylights,Reflective Coated,Inclination 0 Degrees,Single Pane,Horizontal,80,84,88,92,96,100
+Skylights,Reflective Coated,Inclination 0 Degrees,Double Pane,Horizontal,64,66,68,70,72,74
