@@ -1,0 +1,39 @@
+Scope V1: 
+Calculate HVAC Load using square footage of the conditioned space in the home
+Offline availability
+Useful but not overwhelming
+Save load states (save information and come back to it later)
+Free
+Desktop Support
+
+Success Criteria V1: 
+That it calculates the HVAC Load with the given inputs
+UI is logically laid out
+UI is easy to use
+Information input can be saved and returned to
+
+Scope V2: 
+Ability to give less granular information if they don’t know (Advanced Form Toggle)
+
+Language: 
+Mainly in Python (PIP, PyProject) with Flet as Frontend Framework
+
+Task Tracking: 
+GitHub Projects
+
+Audience: 
+Residential home owners with single-home HVAC systems (not professional builders or people building houses)
+
+Target: 
+Desktops/Laptops
+Mac
+Linux
+Windows
+
+Concerns: 
+People not knowing much about the makeup of their home (addressed in V2)
+
+Action Items: 
+[ ] Read more on Flet (Everyone)
+[ ] Get information from the reference material (once it arrives on 5/31) (Davis, April)
+[ ] Install PyProject, Requirements.txt, Main, Docker, GPL License into project repo (Davis
