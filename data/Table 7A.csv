@@ -1,0 +1,25 @@
+Temperature,Duct Location,Insulation Value,<15F,>15F
+<120F,Exposed,None,0.3,0.25
+<120F,Exposed,R2,0.2,0.15
+<120F,Exposed,R4,0.15,0.1
+<120F,Exposed,R6,0.1,0.05
+<120F,Enclosed,None,0.2,0.15
+<120F,Enclosed,R2,0.15,0.1
+<120F,Enclosed,R4,0.1,0.05
+<120F,Enclosed,R6,0.05,0
+<120F,Buried,None,0.25,0.2
+<120F,Buried,3-4,0.15,0.1
+<120F,Buried,5-7,0.1,0.05
+<120F,Buried,7-9,0.05,0
+>120F,Exposed,None,0.35,0.3
+>120F,Exposed,R2,0.25,0.2
+>120F,Exposed,R4,0.2,0.15
+>120F,Exposed,R6,0.15,0.1
+>120F,Enclosed,None,0.25,0.2
+>120F,Enclosed,R2,0.2,0.15
+>120F,Enclosed,R4,0.15,0.1
+>120F,Enclosed,R6,0.1,0.05
+>120F,Buried,None,0.3,0.25
+>120F,Buried,3-4,0.2,0.15
+>120F,Buried,5-7,0.15,0.1
+>120F,Buried,7-9,0.1,0.05

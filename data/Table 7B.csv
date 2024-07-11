@@ -1,0 +1,13 @@
+Duct Location,Insulation Value,Duct Gain Multiplier
+Exposed,None,0.3
+Exposed,R2,0.2
+Exposed,R4,0.15
+Exposed,R6,0.1
+Enclosed,None,0.15
+Enclosed,R2,0.1
+Enclosed,R4,0.05
+Enclosed,R6,0
+Buried,None,0.1
+Buried,3-4,0.05
+Buried,5-7,0
+Buried,7-9,0
