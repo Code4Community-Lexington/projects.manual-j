@@ -8,7 +8,7 @@ ENTRYPOINT="${1:-./app.py}"
 
 # ensure venv is activated and dependencies are installed
 source venv/bin/activate
-pip install -r requirements.txt > /dev/null
+pip install -r requirements.txt 1> /dev/null
 
 # run program
 python "$ENTRYPOINT"
